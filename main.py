@@ -71,3 +71,4 @@ else:
     print(f"Оплата: {method}")
     print(f"Статус: {status}")
     print("---------------")
+    /
